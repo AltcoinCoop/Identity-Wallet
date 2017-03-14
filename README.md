@@ -7,6 +7,8 @@ On Linux ubuntu 14.4
 make sure to install QT with :
 
 --> sudo apt-get install qt5-default
+--> sudo apt install cmake-qt-gui
+
 
 (make sure your folder for currency is named cryptonote)
 
