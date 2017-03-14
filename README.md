@@ -4,6 +4,10 @@ BUILDING WALLET
 
 On Linux ubuntu 14.4 
 
+make sure to install QT with :
+
+--> sudo apt-get install qt5-default
+
 (make sure your folder for currency is named cryptonote)
 
 for example have a folder named Identity, inside you have cryptonote, and its contents identity/cryptonote
@@ -28,9 +32,9 @@ change directory use:
 
 Now you need to create a link with some folders use:
 
---> ln -s ../identitywallet cryptonote
+--> ln -s ../cryptonote cryptonote
 
---> ln -s ../identitywallet libqrencode
+--> ln -s ../libqrencode libqrencode
 
 now that you have done that youre ready to compile use:
 
