@@ -1,0 +1,8 @@
+
+[submodule "cryptonote"]
+	path = cryptonote
+	url = https://github.com/IdentityProject/Identity.git
+[submodule "libqrencode"]
+	path = libqrencode
+	url = https://github.com/fukuchi/libqrencode.git
+branch = 3.4
