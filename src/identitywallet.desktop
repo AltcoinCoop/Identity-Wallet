@@ -1,5 +1,3 @@
-#!/usr/bin/env xdg-open
-
 [Desktop Entry]
 Encoding=UTF-8
 Name=Identity Wallet
@@ -10,4 +8,4 @@ Type=Application
 Icon=identity
 MimeType=x-scheme-handler/identitywallet;
 Categories=Office;Finance;
-Name[en_US]=Identity Wallet
+
